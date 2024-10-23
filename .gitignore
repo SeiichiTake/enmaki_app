@@ -1,1 +1,5 @@
 .venv
+__pycache__
+
+generate_hash.py
+id_pass.csv
