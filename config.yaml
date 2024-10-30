@@ -6,7 +6,7 @@ credentials:
   usernames:
     A12345:
       email: johndoe@example.com
-      name: 漁業者A
+      name: fisherA
       password: $2b$12$ynVOXDeXVV8vZeis0BBhGOZ0PboOwtQm.rXJY8RlPLGRLE2fZNz4S
     B23456:
       email: alice.smith@example.com
