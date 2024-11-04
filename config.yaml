@@ -4,39 +4,11 @@ cookie:
   name: some_cookie_name
 credentials:
   usernames:
-    A12345:
-      email: johndoe@example.com
-      name: fisherA
-      password: $2b$12$ynVOXDeXVV8vZeis0BBhGOZ0PboOwtQm.rXJY8RlPLGRLE2fZNz4S
-    B23456:
-      email: alice.smith@example.com
-      name: AliceSmith
-      password: $2b$12$Hkb9kAJGTSHwM9aOIQxALO0XAsyxHOLa.RjudpN1ld991YOW2hNqu
-    C34567:
-      email: bobj@example.com
-      name: BobJohnson
-      password: $2b$12$hKo7LBQc9JmWO5NOSa3XQ.ymAQJ70Q3ByNbutKvgPqfhcl4.BPFvy
-    D45678:
-      email: emily.brown@example.com
-      name: EmilyBrown
-      password: $2b$12$eqUyWDDZE4KEzt.5Ue/9yOTJY0wcRl9ejQXMMpQM0CqdPbVTZMhLa
-    E56789:
-      email: michael.clark@example.com
-      name: MichaelClark
-      password: $2b$12$jnM3GwcD9iYD9XaCaSG0LO1fn9IkkeIOabS609cp3gfUCdLaDmDSS
-    F67890:
-      email: sarah.lee@example.com
-      name: SarahLee
-      password: $2b$12$6g0PnB7mLNUQeGkbMyFbVePyohvuyrv2ftCQm/z/7f9cGoFrDFWvS
-    G78901:
-      email: david.wilson@example.com
-      name: DavidWilson
-      password: $2b$12$zYXv8HTCa7wk7fVJ.LO2u.FIJnB3I11seT6a0Bjn84IGdAnNaxfjK
-    H89012:
-      email: jennifer.taylor@example.com
-      name: JenniferTaylor
-      password: $2b$12$/lsUfMMDaIsESPYP665fGOTnt8eexnQRH0PNoo8Vw8ANRNoC2UuqS
-    I90123:
-      email: daniel.martinez@example.com
-      name: DanielMartinez
-      password: $2b$12$5t50Ivp.V7i/h8/NZeRLReZJDSsG0h/KOfMdLA5lYx1Q3eP09utZO
+    enmaki:
+      email: enmaki@example.com
+      name: enmaki
+      password: $2b$12$gzeG8BcC6R6pWS36Skv1/OiNrSRJB/.bkh3ZGPsXabor2z7uwjabW
+    sanmaki:
+      email: sanmaki@example.com
+      name: sanmaki
+      password: $2b$12$PSmhIepeMHo/MDA6XeA/7.QqI/Y0.98C923SnnL7G0GMko88sjZD2
